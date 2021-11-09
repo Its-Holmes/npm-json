@@ -1,0 +1,20 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "2.14.0",
+    "package-name": "version"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  },
+  "description": "Its practise based node project from amazing freecodecamp",
+  "version": "1.0.0",
+  "keywords": ["i","love","backend"],
+  "author": "Shubham",
+  "license": "ISC"
+}
