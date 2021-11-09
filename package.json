@@ -12,6 +12,11 @@
     "url": "https://idontknow/todo.git"
   },
   
-  "author": "Shubham Chitade"
+  "author": "Shubham Chitade",
+  "description": "Its great learning website",
+  "keywords": [ "freecodecamp", "is", "awesome" ],
+  "license": "ISC",
+  "version": "1.0.0"
+  
   
 }
